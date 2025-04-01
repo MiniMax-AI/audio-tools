@@ -1,0 +1,13 @@
+This project is a derivative work based on:
+
+1. korean-romanizer
+   - Original project: https://github.com/osori/korean-romanizer
+   - Copyright (c) Ilkyu Ju and contributors
+   - License: GPL-3.0
+
+2. num2words
+   - Original project: https://github.com/savoirfairelinux/num2words
+   - Copyright (c) Savoir-faire Linux and contributors
+   - License: LGPL-2.1
+
+This combined work is distributed under the terms of the GPL-3.0 license.
